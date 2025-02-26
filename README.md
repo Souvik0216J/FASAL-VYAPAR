@@ -1,4 +1,4 @@
-# 🌾 FASAL-VYAPAR
+#🌾 FASAL-VYAPAR
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d2a435f6-ff95-4217-b329-6b05093c9c58" width="300" style="border-radius: 15px;">
@@ -7,15 +7,15 @@
 ## 📌 Overview
 Fasal Vyapar is an innovative marketplace designed for farmers to list their products and shopkeepers to seamlessly purchase them. This app provides:
 
-✅ **Easy Inventory Management**  
-🌱 **Advanced Crop & Soil Classification**  
-💰 **Secure & Simplified Transactions**  
-🛒 **Farmer & Shopkeeper Dashboards**
+✅ *Easy Inventory Management*  
+🌱 *Advanced Crop & Soil Classification*  
+💰 *Secure & Simplified Transactions*  
+🛒 *Farmer & Shopkeeper Dashboards*
 
 ## 📥 Clone the Repository
-```bash
+bash
 git clone https://github.com/anirban222777das/FASAL-VYAPAR
-```
+
 
 ## 📸 Screenshots
 
@@ -35,4 +35,4 @@ git clone https://github.com/anirban222777das/FASAL-VYAPAR
 |-------------------|--------------|--------------|
 | <img src="https://github.com/user-attachments/assets/764baa7a-e250-469a-abf1-f7e238390b9e" width="250" style="border: 2px solid black; border-radius: 10px; padding: 5px;"> | <img src="https://github.com/user-attachments/assets/434b02dd-0407-4b27-954f-d862be0a8782" width="250" style="border: 2px solid black; border-radius: 10px; padding: 5px;"> | <img src="https://github.com/user-attachments/assets/85f93991-e74f-44f4-a4f7-96e46c0d17c8" width="250" style="border: 2px solid black; border-radius: 10px; padding: 5px;"> |
 
-🚀 **The Models files are not available! please use your own models accordingly**
+🚀 *Stay tuned for updates!*
