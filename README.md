@@ -14,7 +14,7 @@ Fasal Vyapar is an innovative marketplace designed for farmers to list their pro
 
 ## 📥 Clone the Repository
 bash
-git clone https://github.com/anirban222777das/FASAL-VYAPAR
+git clone https: https://github.com/Souvik0216J/FASAL-VYAPAR.git
 
 
 ## 📸 Screenshots
