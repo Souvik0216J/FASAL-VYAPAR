@@ -1,0 +1,8 @@
+Apple Fresh
+Apple Ripe
+Apple Rotten
+Fresh Banana
+Fresh Mango
+Ripe Mango
+Rotten Banana 
+Rotten Mango
